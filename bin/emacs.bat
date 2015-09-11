@@ -1,0 +1,1 @@
+D:\实用工具\emacs-22.3\bin\runemacs.exe 
